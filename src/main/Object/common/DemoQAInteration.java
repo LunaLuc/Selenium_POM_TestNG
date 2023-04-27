@@ -3,8 +3,8 @@ package common;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import PageUI.Element;
+import org.openqa.selenium.WebElement;
 
-import static PageUI.Element.XPATH_ELEMENT_TAB;
 
 public class DemoQAInteration {
     WebDriver driver;
